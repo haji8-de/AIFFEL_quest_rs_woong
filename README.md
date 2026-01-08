@@ -4,21 +4,30 @@
 AIFFEL_quest_rs
 ├── Exploration
 │   ├── Ex01
-│   ├── Ex02
+│   .
+│   .
+│   .
 │   └── Ex08
-│       ├── Ex08.ipynb
+│       ├── .ipynb
 │       └── README.md
 ├── GoingDeeper
 │   ├── Deep01
+.		.
+.		.
+.		.
 │   └── Deep09
-│       ├── Deep09.ipynb
+│       ├── .ipynb
 │       └── README.md
 ├── MainQuest
 │   ├── Quest01
-│   │   ├── Quest01.ipynb
+│   │   ├── .ipynb
 │   │   └── README.md
+.		.
+.		.
+.		.
 │   └── Quest05
-│       ├── Quest05.ipynb
+│       ├── .ipynb
 │       └── README.md
-├── README.md
+├─  README.md
 └── README_template.md
+
